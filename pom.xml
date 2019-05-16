@@ -12,7 +12,7 @@
     <modules>
         <module>jrelax-core</module>
         <module>jrelax-kit</module>
-        <module>jrelax-fs</module>
+        <!--<module>jrelax-fs</module>-->
         <module>jrelax-test</module>
         <module>jrelax-product</module>
         <module>jrelax-cache</module>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jrelax-activiti" />
+        <module name="jrelax-cache" />
+        <module name="jrelax-core" />
+        <module name="jrelax-document" />
+        <module name="jrelax-kit" />
+        <module name="jrelax-plugin-fileupload" />
+        <module name="jrelax-plugins-autoversion" />
+        <module name="jrelax-plugins-cache" />
+        <module name="jrelax-plugins-db-backup" />
+        <module name="jrelax-plugins-signface" />
+        <module name="jrelax-setup" />
+        <module name="jrelax-system" />
+        <module name="jrelax-test" />
+        <module name="jrelax-token" />
+        <module name="jrelax-weixin" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

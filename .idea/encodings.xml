@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-kit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-plugins" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-plugins/jrelax-plugin-fileupload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-plugins/jrelax-plugins-autoversion" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-plugins/jrelax-plugins-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-plugins/jrelax-plugins-db-backup" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-plugins/jrelax-plugins-signface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-product/jrelax-document" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-product/jrelax-setup" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-product/jrelax-system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-third" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-third/jrelax-activiti" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-third/jrelax-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jrelax-token" charset="UTF-8" />
+  </component>
+</project>
